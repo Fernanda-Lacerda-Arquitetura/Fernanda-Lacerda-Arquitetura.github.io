@@ -1,20 +1,53 @@
 ---
-title:  "I scream"
-subtitle: "But do you scream?"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
+title:  "Container Marítimo"
+subtitle: "Construções com Containers Marítimos: Inovação e Sustentabilidade"
+autholor: "Fernanda Lacerda"
+avatar: "img/authors/FernandaLacerda.png"
 image: "img/e.jpg"
 date:   2015-04-24 12:12:12
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### Construções com Containers Marítimos
+As construções com containers marítimos têm ganhado destaque em diversos setores, desde residências e escritórios até espaços comerciais. A versatilidade, a sustentabilidade e a rapidez na execução são apenas alguns dos fatores que impulsionam essa tendência. Neste artigo, exploraremos as características das construções com containers, com um foco especial em como essa abordagem pode ser aplicada na criação de um centro ou templo religioso, utilizando, por exemplo, oito unidades de containers marítimos.
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+### Vantagens e Desvantagens das Construções com Containers.
+A utilização de containers marítimos na construção civil oferece uma série de benefícios, mas também apresenta desafios que precisam ser considerados. Compreender esses pontos é crucial para o sucesso de qualquer projeto.
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+Vantagens:
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+•
+Sustentabilidade: A reutilização de containers contribui significativamente para a redução do descarte de materiais, promovendo a economia circular e diminuindo o impacto ambiental da construção civil. 
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+•
+Rapidez na Construção: Por serem estruturas pré-fabricadas, os containers agilizam o processo construtivo. Grande parte da obra pode ser realizada off-site, reduzindo o tempo de execução no local e os custos com mão de obra. 
+
+•
+Custo-Benefício: Embora o custo inicial possa variar, a economia com fundações, mão de obra e tempo de construção pode tornar os projetos com containers mais acessíveis em comparação com métodos tradicionais. 
+
+•
+Durabilidade e Resistência: Projetados para suportar condições extremas de transporte marítimo, os containers são extremamente robustos e duráveis, resistindo a intempéries e grandes cargas. 
+
+•
+Mobilidade: Em alguns casos, as estruturas de container podem ser realocadas, oferecendo flexibilidade para projetos temporários ou que necessitem de mudança de local. 
+
+•
+Versatilidade: A modularidade dos containers permite uma grande flexibilidade de design, possibilitando a criação de diferentes layouts e tamanhos de edificações, desde pequenas casas até complexos maiores. 
+
+Desvantagens:
+
+•
+Isolamento Térmico e Acústico: O aço dos containers é um excelente condutor de calor e som, o que exige um investimento significativo em sistemas de isolamento térmico e acústico para garantir o conforto interno. Materiais como espuma de poliuretano, lã de rocha e gesso acartonado são comumente utilizados para essa finalidade. 
+
+•
+Regulamentação e Legalização: Embora a legislação brasileira não apresente restrições específicas ao uso de containers, é fundamental adequar o projeto às normas técnicas e regulamentações locais de construção, o que pode envolver a obtenção de alvarás e licenças. 
+
+•
+Tratamento e Manutenção: Containers usados podem necessitar de tratamento contra corrosão e outras intempéries, além de manutenção regular para preservar sua integridade e estética. 
+
+•
+Espaço Interno: A largura padrão dos containers (aproximadamente 2,44 metros) pode ser um desafio para o design de interiores, exigindo criatividade para otimizar o espaço e criar ambientes funcionais. 
+
+As construções com containers marítimos representam uma alternativa inovadora e sustentável para a criação de espaços religiosos. Ao aliar a robustez e a modularidade dos containers com um design inteligente e adaptado às necessidades da comunidade, é possível erguer templos e centros que não apenas cumprem sua função espiritual, mas também refletem um compromisso com a sustentabilidade e a eficiência. A flexibilidade que os containers oferecem permite que cada projeto seja único, transformando o que antes era uma simples caixa de metal em um local de fé, acolhimento e inspiração.
+
+Com o planejamento adequado e a expertise de profissionais qualificados, a visão de um centro religioso construído com containers marítimos pode se tornar uma realidade, oferecendo um espaço moderno, funcional e com um impacto ambiental reduzido para as gerações futuras.
+
