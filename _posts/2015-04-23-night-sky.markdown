@@ -1,20 +1,44 @@
 ---
-title:  "Absense of light"
-subtitle: "Only lights from space"
-author: "Wferr"
+title:  "Oficina container"
+subtitle: "Uma ofocina contruída com container"
+author: "Fernanda Lacerda"
 avatar: "img/authors/wferr.png"
 image: "img/d.jpg"
 date:   2015-04-23 12:12:12
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### Construindo o Futuro: Uma Oficina Moderna com Containers
+As construções com containers têm ganhado cada vez mais destaque no cenário da arquitetura e engenharia, não apenas pela sua estética inovadora, mas também pela sua eficiência e sustentabilidade. Essa abordagem, que reutiliza containers marítimos, oferece uma alternativa inteligente e econômica para diversos tipos de projetos, desde residências até espaços comerciais e industriais.
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+Por Que Escolher Containers?
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+A popularidade das construções com containers não é à toa. Elas apresentam uma série de vantagens que as tornam uma opção atraente:
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+Rapidez na Construção: A modularidade dos containers permite que a obra seja significativamente mais rápida, reduzindo o tempo de execução em até 80% em comparação com métodos tradicionais de alvenaria.
+
+
+Sustentabilidade: A reutilização de containers que, de outra forma, seriam descartados, contribui para a redução do impacto ambiental, promovendo a economia circular.
+
+
+Custo-Benefício: Em muitos casos, o custo total de uma construção com containers pode ser até 50% menor do que uma construção convencional, tornando-a mais acessível.
+
+
+Durabilidade e Resistência: Projetados para suportar as rigorosas condições do transporte marítimo, os containers são extremamente robustos e duráveis.
+
+
+Versatilidade: A adaptabilidade dos containers permite a criação de projetos variados, desde pequenas casas até grandes complexos.
+
+
+
+### Nosso Projeto: Uma Oficina Inovadora.
+Com base nesses princípios, desenvolvemos um projeto de oficina moderna que integra a versatilidade dos containers com a solidez da alvenaria e a eficiência da estrutura metálica. Este projeto, que utiliza 8 containers, foi concebido para ser um espaço funcional, esteticamente agradável e com alta performance.
+
+Como pode ser visto nas imagens externas do projeto, a combinação de containers com a alvenaria aparente nas laterais cria um contraste visual interessante, conferindo um aspecto robusto e contemporâneo à estrutura. O telhado com estrutura metálica, por sua vez, não só complementa o design industrial, mas também proporciona um amplo espaço interno e uma excelente proteção contra intempéries, permitindo a entrada de luz natural durante o dia e um sistema de iluminação eficiente à noite, como evidenciado nas renderizações do entardecer.
+
+O Design e a Funcionalidade
+
+Nossa oficina foi pensada para otimizar o espaço e proporcionar um ambiente de trabalho confortável e produtivo. Os 8 containers foram estrategicamente posicionados para criar diferentes áreas, como espaços de trabalho, armazenamento, e áreas de apoio. A integração com a alvenaria permite a criação de paredes mais robustas onde necessário, além de facilitar a instalação de sistemas elétricos e hidráulicos complexos.
+
+Nas imagens internas, é possível observar a amplitude do espaço, com um mezanino que otimiza a área útil, ideal para escritórios ou áreas de descanso. A presença de grandes janelas basculantes nos containers superiores e a porta de acesso ao mezanino demonstram a preocupação com a ventilação e a iluminação natural. Detalhes como o guindaste de pórtico móvel e as bancadas indicam a funcionalidade do espaço para atividades de oficina, enquanto a escada metálica com degraus vazados reforça o estilo industrial e moderno do projeto. O isolamento térmico e acústico, um ponto crucial em construções com containers, foi cuidadosamente planejado para garantir o conforto dos usuários, independentemente das condições climáticas externas. A ventilação e a iluminação natural também foram priorizadas, resultando em um ambiente de trabalho mais saudável e eficiente.
+
